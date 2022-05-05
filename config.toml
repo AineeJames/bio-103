@@ -1,0 +1,16 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'BIO 103 Portfolio'
+
+theme = "reveal-hugo"
+
+[params.reveal_hugo]
+theme = "solarized"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[outputFormats.Reveal]
+baseName = "index"
+mediaType = "text/html"
+isHTML = true

@@ -42,6 +42,7 @@ the amount of sleep I got in a night because of reduced blue light exposure.
 {{< slide background-color="#FFaa5F" >}}
 
 ### Systems and Models
+
 Sytems and Models play a huge role in our understanding of how complex biological organisms work. For example,
 during the term, we have broken down the human body into many smaller systems in order to understand how our
 larger systems work.
@@ -62,10 +63,34 @@ larger systems work.
 
 ### Note Taking
 
+One of the most essential components of science is note taking. Without it, it is easy to forget what is learned
+during the scientific process. Below is an example of note taking I've done this term, specifiaclly about the 
+nervous system.
+
+<img src="./pics/notes.jpeg" alt="lightbulb" width="400"/>
+
 ---
 
 {{< slide background-color="#649273" >}}
 
 ### Recording Data
+
+Data helps us understand the results of our experiments and show correlations between different sets of data.
+For our body parameter assignment this term, we were tasked with collecting data on a specific bady parameter.
+Most of the time data is collected in a table and an example can be seen in the slide below.
+
+---
+
+{{< slide background-color="#649273" >}}
+
+### Data Collection Table
+
+| Day of the Week     | M | T | W | R | F |
+|---------------------|---|---|---|---|---|
+| Minutes of Exercise |   |   |   |   |   |
+| Hours of Sleep      |   |   |   |   |   |
+| Time on Phone       |   |   |   |   |   |
+
+{{% /section %}}
 
 ---

@@ -5,7 +5,7 @@ title = 'BIO 103 Portfolio'
 theme = "reveal-hugo"
 
 [params.reveal_hugo]
-theme = "solarized"
+theme = "moon"
 
 [markup.goldmark.renderer]
 unsafe = true

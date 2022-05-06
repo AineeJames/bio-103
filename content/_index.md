@@ -21,7 +21,7 @@ By: Aiden Olsen
 {{% section %}}
 {{< slide id="science-concepts" background-color="#FFaa5F" >}}
 
-# Science Concepts
+# Science Concepts ↓
 
 ---
 
@@ -52,10 +52,11 @@ larger systems work.
 {{% /section %}}
 
 ---
+
 {{% section %}}
 {{< slide id="science-skills" background-color="#649273" >}}
 
-# Science Skills
+# Science Skills ↓
 
 ---
 
@@ -67,7 +68,7 @@ One of the most essential components of science is note taking. Without it, it i
 during the scientific process. Below is an example of note taking I've done this term, specifiaclly about the 
 nervous system.
 
-<img src="./pics/notes.jpeg" alt="lightbulb" width="400"/>
+<img src="./pics/notes.jpeg" alt="example notes" width="400"/>
 
 ---
 
@@ -93,4 +94,3 @@ Most of the time data is collected in a table and an example can be seen in the 
 
 {{% /section %}}
 
----

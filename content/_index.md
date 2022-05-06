@@ -3,7 +3,7 @@ title = "BIO:103 Portfolio"
 outputs = ["Reveal"]
 +++
 
-# BIO 103
+# 🔬 BIO 103
 
 ## Portfolio
 
@@ -11,7 +11,7 @@ By: Aiden Olsen
 
 ---
 
-## Overview
+## 📋 Overview
 
 - [Science Concepts](#science-concepts)
 - [Science Skills](#science-skills)
@@ -21,7 +21,7 @@ By: Aiden Olsen
 {{% section %}}
 {{< slide id="science-concepts" background-color="#FFaa5F" >}}
 
-# Science Concepts ↓
+# 🦠 Science Concepts ↓
 
 ---
 
@@ -56,7 +56,7 @@ larger systems work.
 {{% section %}}
 {{< slide id="science-skills" background-color="#649273" >}}
 
-# Science Skills ↓
+# 🧠 Science Skills ↓
 
 ---
 

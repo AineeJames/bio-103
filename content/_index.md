@@ -3,13 +3,15 @@ title = "BIO:103 Portfolio"
 outputs = ["Reveal"]
 +++
 
-## BIO 103 Portfolio
+# BIO 103
+
+## Portfolio
 
 By: Aiden Olsen
 
 ---
 
-# Overview
+## Overview
 
 - [Science Concepts](#science-concepts)
 - [Science Skills](#science-skills)
@@ -17,11 +19,13 @@ By: Aiden Olsen
 ---
 
 {{% section %}}
-{{< slide id="science-concepts" >}}
+{{< slide id="science-concepts" background-color="#FFaa5F" >}}
 
-## Science Concepts
+# Science Concepts
 
 ---
+
+{{< slide background-color="#FFaa5F" >}}
 
 ### Hypothesis
 
@@ -35,6 +39,8 @@ the amount of sleep I got in a night because of reduced blue light exposure.
 
 ---
 
+{{< slide background-color="#FFaa5F" >}}
+
 ### Systems and Models
 Sytems and Models play a huge role in our understanding of how complex biological organisms work. For example,
 during the term, we have broken down the human body into many smaller systems in order to understand how our
@@ -45,7 +51,21 @@ larger systems work.
 {{% /section %}}
 
 ---
+{{% section %}}
+{{< slide id="science-skills" background-color="#649273" >}}
 
-{{< slide id="science-skills" >}}
+# Science Skills
 
-## Science Skills
+---
+
+{{< slide background-color="#649273" >}}
+
+### Note Taking
+
+---
+
+{{< slide background-color="#649273" >}}
+
+### Recording Data
+
+---
